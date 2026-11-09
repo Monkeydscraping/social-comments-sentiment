@@ -12,6 +12,8 @@ Top topics: emoji reaction (5), laughing emojis (3), heart emojis (2), applause 
 
 That's Claude mode, on a real post. You also get the most liked negative comments, which is usually where the real feedback is. On the same post the free VADER mode found only 9 positives: it reads "❤️🙌🔥" as negative and doesn't speak Spanish.
 
+Step-by-step walkthrough on Dev.to: [What are people actually saying under that post?](https://dev.to/monkeydscraping/what-are-people-actually-saying-under-that-post-facebook-instagram-comment-sentiment-with-python-2977)
+
 ## How it works
 
 1. The comments come from two Apify Actors: [Facebook Comments Scraper](https://apify.com/monkey.d.scraping/facebook-comments-scraper) and [Instagram Comments Scraper](https://apify.com/monkey.d.scraping/instagram-comments-scraper). Public posts, reels and videos, no login.
