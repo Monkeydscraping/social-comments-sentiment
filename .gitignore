@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.csv
+*-summary.md
+.venv/
+.pytest_cache/
